@@ -68,11 +68,6 @@
         </dependency>
         <dependency>
             <groupId>com.vaadin</groupId>
-            <artifactId>vaadin-shared-deps</artifactId>
-            <version>${vaadin.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.vaadin</groupId>
             <artifactId>vaadin-compatibility-shared</artifactId>
             <version>${vaadin.version}</version>
         </dependency>
