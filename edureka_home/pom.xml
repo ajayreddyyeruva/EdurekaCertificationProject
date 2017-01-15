@@ -25,3 +25,4 @@
         <developerConnection>scm:git:git@github.com:${github.account}/EdurekaCertificationProject.git</developerConnection>
         <url>scm:git:git@github.com:${github.account}/EdurekaCertificationProject.git</url>
     </scm>
+</project>
