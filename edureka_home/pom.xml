@@ -6,7 +6,7 @@
     <artifactId>edureka_home</artifactId>
     <packaging>war</packaging>
     <version>2.0</version>
-    <name>edureka certification</name>
+    <name>edureka certification project</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
