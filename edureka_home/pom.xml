@@ -261,7 +261,8 @@
         </plugin>
 
         </plugins>
-		<finalName>addressbook</finalName>
+		<finalName>edureka_home</finalName>
+                                        <sourceDirectory>src</sourceDirectory>
     </build>
 	
 	  
